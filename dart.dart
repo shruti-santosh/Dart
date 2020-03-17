@@ -1,3 +1,7 @@
+/*this code is probably not what you expect. I tried my best, but this is all i could do. It's totally understandable if you guys dont
+select me or something (my programming skills suck), but hey i learnt a new language! i can say i know (have seen) a language called dart, and participate in 
+discussions lol. thanks anyway. great initiative.*/
+
 import 'dart:io';
 
 class MentorLearner {
